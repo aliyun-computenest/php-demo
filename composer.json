@@ -2,6 +2,7 @@
     "name": "aliyun-computenest/php-demo",
     "type": "project",
     "require": {
+        "php": "^8.4.0",
         "monolog/monolog": "^3.8"
     }
 }
