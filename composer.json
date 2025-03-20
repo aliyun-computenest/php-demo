@@ -1,8 +1,6 @@
 {
-    "name": "aliyun-computenest/php-demo",
-    "type": "project",
     "require": {
-        "php": "^8.4.0",
+        "php": "^8.1",
         "monolog/monolog": "^3.8"
     }
 }
