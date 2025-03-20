@@ -1,0 +1,7 @@
+{
+    "name": "aliyun-computenest/php-demo",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^3.8"
+    }
+}
